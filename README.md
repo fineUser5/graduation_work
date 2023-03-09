@@ -1,5 +1,3 @@
-# graduation_work
-Graduation work.
 Инструкция по запуску дипломной работы.
 1. Подготовка симулятора
 1.1 Склонировать файлы симулятора в директорию "skillbox-diploma" (git clone https://github.com/antondzhukov/skillbox-diploma.git)
